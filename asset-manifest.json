@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/my-react-app/static/js/main.d4220c99.chunk.js",
-    "main.js.map": "/my-react-app/static/js/main.d4220c99.chunk.js.map",
-    "runtime-main.js": "/my-react-app/static/js/runtime-main.0c3c189f.js",
-    "runtime-main.js.map": "/my-react-app/static/js/runtime-main.0c3c189f.js.map",
-    "static/js/2.59c3240f.chunk.js": "/my-react-app/static/js/2.59c3240f.chunk.js",
-    "static/js/2.59c3240f.chunk.js.map": "/my-react-app/static/js/2.59c3240f.chunk.js.map",
-    "index.html": "/my-react-app/index.html",
-    "precache-manifest.41bf5e6e796e224d671164965cd54a5d.js": "/my-react-app/precache-manifest.41bf5e6e796e224d671164965cd54a5d.js",
-    "service-worker.js": "/my-react-app/service-worker.js",
-    "static/js/2.59c3240f.chunk.js.LICENSE": "/my-react-app/static/js/2.59c3240f.chunk.js.LICENSE"
+    "main.js": "/my-react-meetup/static/js/main.fabdf585.chunk.js",
+    "main.js.map": "/my-react-meetup/static/js/main.fabdf585.chunk.js.map",
+    "runtime-main.js": "/my-react-meetup/static/js/runtime-main.e9ac609b.js",
+    "runtime-main.js.map": "/my-react-meetup/static/js/runtime-main.e9ac609b.js.map",
+    "static/js/2.59c3240f.chunk.js": "/my-react-meetup/static/js/2.59c3240f.chunk.js",
+    "static/js/2.59c3240f.chunk.js.map": "/my-react-meetup/static/js/2.59c3240f.chunk.js.map",
+    "index.html": "/my-react-meetup/index.html",
+    "precache-manifest.b68165477c56f91d52c93d1cb1bff559.js": "/my-react-meetup/precache-manifest.b68165477c56f91d52c93d1cb1bff559.js",
+    "service-worker.js": "/my-react-meetup/service-worker.js",
+    "static/js/2.59c3240f.chunk.js.LICENSE": "/my-react-meetup/static/js/2.59c3240f.chunk.js.LICENSE"
   },
   "entrypoints": [
-    "static/js/runtime-main.0c3c189f.js",
+    "static/js/runtime-main.e9ac609b.js",
     "static/js/2.59c3240f.chunk.js",
-    "static/js/main.d4220c99.chunk.js"
+    "static/js/main.fabdf585.chunk.js"
   ]
 }
