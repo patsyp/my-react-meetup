@@ -1,12 +1,6 @@
 import axios from 'axios'
 
 const meetupApi = axios.create({
-    baseURL: 'https://api.meetup.com/reactjs-dallas/events/response_type=code',
-    params: {
-    },
+    baseURL: 'https://api.meetup.com/reactjs-dallas/events?&sign=true&photo-host=pulic&page=20',
 })
-
-// const getAccess = axios.create({
-//     baseURL: 'https://secure.meetup.com/oauth2/access'
-// })
 export default meetupApi

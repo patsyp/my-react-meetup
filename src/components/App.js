@@ -6,7 +6,7 @@ class App extends Component {
     }
 
     componentDidMount() {
-        // this.getReactMeetupEvents()
+        this.getReactMeetupEvents()
     }
     getReactMeetupEvents = async (term) => {
        const response =  await meetup.get('', { params: {  } })
@@ -15,6 +15,7 @@ class App extends Component {
         })
     }
     render() {
+        console.log(this.state)
         return (
             <div>Hello</div>
         )
